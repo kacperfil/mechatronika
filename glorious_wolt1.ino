@@ -16,7 +16,7 @@ Servo servo_9;
 
 void setup()
 {
-  servo_9.attach(9, 500, 2500);
+  servo_9.attach(9, 500, 1200);
 
 }
 
